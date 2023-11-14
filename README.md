@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgshuheb
-- 👀 I’m interested in tech, stocks and mental health.
+- 👋 Hi, I’m Mo.
+- 👀 I’m interested in tech, stocks, real estate and mental health.
 - 🌱 I’m currently learning all things DevOps.
 - 📫 How to reach me - m@mgs.ae
